@@ -2,7 +2,8 @@
 
 ### RF (Requisitos funcionais)
 
-- [ ] Deve ser possível cadastrar um administrador
+- [ ] Deve ser possível cadastrar um administrador 
+teste 123
 
 **Dashboard**
 - [ ] Deve ser possível cadastrar um lojista
