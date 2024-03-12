@@ -2,8 +2,6 @@
 
 ### RF (Requisitos funcionais)
 
-### Dashboard
-
 - [ ] Deve ser possível se autenticar
 - [ ] Deve ser possível o usuário redefinir a senha
 
@@ -13,16 +11,16 @@
 - [ ] Deve ser possível filtrar por produtos (nome, categoria, preço)
 - [ ] Deve ser possível o cliente adicionar produtos ao carrinho
 - [ ] Deve ser possível o cliente fazer um pedido
-- [ ] Deve ser possível importar produtos por arquivo CSV
 
-### Marketplace
-
+### Dashboard
 - [ ] Deve ser possível se cadastrar como lojista
 - [ ] Deve ser possível um lojista cadastrar uma loja
 - [ ] Deve ser possível um lojista cadastrar produtos para uma loja
 - [ ] Deve ser possível um lojista cadastrar categoria de produtos em uma loja
 - [ ] Deve ser possível um lojista cadastrar uma variação de produtos em uma loja
 - [ ] Deve ser possível um lojista cadastrar produtos em destaque
+
+- [ ] Deve ser possível importar produtos por arquivo CSV
 
 ### RN (Regras de negócio)
 
